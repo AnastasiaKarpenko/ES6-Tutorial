@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="21becaf4-bfae-49d0-ac5b-5acd9c9ea11e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sandbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sandbox.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/sandbox.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+            <state relative-caret-position="495">
+              <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -127,7 +128,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544001804090</updated>
-      <workItem from="1544001805246" duration="3724000" />
+      <workItem from="1544001805246" duration="4315000" />
     </task>
     <task id="LOCAL-00001" summary="learning about let and var">
       <created>1544003134439</created>
@@ -178,11 +179,25 @@
       <option name="project" value="LOCAL" />
       <updated>1544005629952</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="experimenting with arrow functions and filter ()">
+      <created>1544011176639</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1544011176639</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Printing template strings">
+      <created>1544011506350</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1544011506350</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3724000" />
+    <option name="totallyTimeSpent" value="4315000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -218,7 +233,8 @@
     <MESSAGE value="Arrow function" />
     <MESSAGE value="without parenthesis" />
     <MESSAGE value="experimenting with arrow functions and filter ()" />
-    <option name="LAST_COMMIT_MESSAGE" value="experimenting with arrow functions and filter ()" />
+    <MESSAGE value="Printing template strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Printing template strings" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/index.js">
@@ -264,8 +280,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sandbox.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        <state relative-caret-position="495">
+          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
         </state>
       </provider>
     </entry>

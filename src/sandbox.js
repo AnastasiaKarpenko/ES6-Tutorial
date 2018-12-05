@@ -9,18 +9,26 @@ const integers = [1, 2, 3];
 
 // console.log(updatedIntegers);
 
-const ages = [23, 42, 6, 18];
+// const ages = [23, 42, 6, 18];
+//
+// // const adults = ages.filter(function (age) {
+// //     return age > 20
+// // });
+//
+// const adults = ages.filter((age) => age > 20);
+//
+// console.log(adults);
+//
+//
+// const name = "Anastasia";
+// const sentence = `My name is ${name}`;
+// console.log(sentence);
+//
 
-// const adults = ages.filter(function (age) {
-//     return age > 20
-// });
+function Person(name, age) {
+    this.name = name;
+    this.age = age;
+};
 
-const adults = ages.filter((age) => age > 20);
-
-console.log(adults);
-
-
-const name = "Anastasia";
-const sentence = `My name is ${name}`;
-console.log(sentence);
-
+const bill = new Person("Bill", 50);
+console.log(bill);
