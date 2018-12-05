@@ -19,3 +19,8 @@ const adults = ages.filter((age) => age > 20);
 
 console.log(adults);
 
+
+const name = "Anastasia";
+const sentence = `My name is ${name}`;
+console.log(sentence);
+
