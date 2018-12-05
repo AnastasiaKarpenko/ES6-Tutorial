@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21becaf4-bfae-49d0-ac5b-5acd9c9ea11e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/sandbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sandbox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/sandbox.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+            <state relative-caret-position="285">
+              <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -127,7 +127,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544001804090</updated>
-      <workItem from="1544001805246" duration="2922000" />
+      <workItem from="1544001805246" duration="3724000" />
     </task>
     <task id="LOCAL-00001" summary="learning about let and var">
       <created>1544003134439</created>
@@ -150,11 +150,39 @@
       <option name="project" value="LOCAL" />
       <updated>1544005171149</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Arrow function">
+      <created>1544005310176</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1544005310176</updated>
+    </task>
+    <task id="LOCAL-00005" summary="without parenthesis">
+      <created>1544005324695</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1544005324695</updated>
+    </task>
+    <task id="LOCAL-00006" summary="without parenthesis">
+      <created>1544005373935</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1544005373935</updated>
+    </task>
+    <task id="LOCAL-00007" summary="experimenting with arrow functions and filter ()">
+      <created>1544005629952</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1544005629952</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2922000" />
+    <option name="totallyTimeSpent" value="3724000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -187,7 +215,10 @@
     <MESSAGE value="learning about let and var" />
     <MESSAGE value="learning about const variables" />
     <MESSAGE value="Map function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Map function" />
+    <MESSAGE value="Arrow function" />
+    <MESSAGE value="without parenthesis" />
+    <MESSAGE value="experimenting with arrow functions and filter ()" />
+    <option name="LAST_COMMIT_MESSAGE" value="experimenting with arrow functions and filter ()" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/index.js">
@@ -233,8 +264,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sandbox.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        <state relative-caret-position="285">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
         </state>
       </provider>
     </entry>
