@@ -1,13 +1,7 @@
-//Const variable cannot be changed (but its properties can be changed), let variable can be changed.
+const integers = [1, 2, 3];
 
+const updatedIntegers = integers.map(function (number) {
+    return number += 1
+});
 
-const person = {
-    name: "Bill",
-    gender: "male"
-};
-
-person.name = "Jane";
-person.gender = "female";
-
-console.log(person.name);
-console.log(person.gender);
+console.log(updatedIntegers);
