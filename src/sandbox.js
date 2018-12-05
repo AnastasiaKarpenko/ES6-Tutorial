@@ -1,15 +1,13 @@
-// function printName() {
-//     var name = "Anastasiia";
-//     console.log(name)
-// }
-//
-// printName();
+//Const variable cannot be changed (but its properties can be changed), let variable can be changed.
 
-//var variables are function scope variables
 
-var name = "Anastasiia";
+const person = {
+    name: "Bill",
+    gender: "male"
+};
 
-if(name == "Anastasiia") {
-    let fullName = "Anastasiia Karpenko";  //let is a variable for block scope
-    console.log(fullName);
-}
+person.name = "Jane";
+person.gender = "female";
+
+console.log(person.name);
+console.log(person.gender);
