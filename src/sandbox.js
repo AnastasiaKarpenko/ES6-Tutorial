@@ -30,5 +30,9 @@ function Person(name, age) {
     this.age = age;
 };
 
+Person.prototype.speak = function () {
+    console.log(`Hi, my name is ${this.name}`)
+};
+
 const bill = new Person("Bill", 50);
-console.log(bill);
+bill.speak();
